@@ -1,16 +1,16 @@
 id,name,type,function,age,representation,position
-TH,Thomas Hitzlsperger,0,V,38,S,US,K,VS
+TH,Thomas Hitzlsperger,0,V,38,K,VS
 SH,Stefan Heim,0,V,50,F,VW,O,MV
-JR,Jochen Röttgermann,0,V,54,M,V,MV,MG
+JR,Jochen Röttgermann,0,V,54,M,MV
 OS,Oliver Schraft,0,G,53,K,T,MG
-CV,Claus Vogt,0,AR,51,,VS,P
-WP,Wilfried Porth,0,AR,62,,SV
-RA,Rainer Adrion,0,AR,67,,MA
-BG,Dr. Bernd Gaiser,0,AR,59,,MA
-HJ,Hartmut Jenner,0,AR,55,,SV
-HO,Hermann Ohlicher,0,AR,71,,MA
-FR,Franz Reiner,0,AR,53,,MA
-BS,Dr. Bertram Sugg,0,AR,55,,MA
+CV,Claus Vogt,0,AR,51,NA,VS,P
+WP,Wilfried Porth,0,AR,62,NA,SV
+RA,Rainer Adrion,0,AR,67,NA,MA
+BG,Dr. Bernd Gaiser,0,AR,59,NA,MA
+HJ,Hartmut Jenner,0,AR,55,NA,SV
+HO,Hermann Ohlicher,0,AR,71,NA,MA
+FR,Franz Reiner,0,AR,53,NA,MA
+BS,Dr. Bertram Sugg,0,AR,55,NA,MA
 VfB,VfB Stuttgart,1,,,,
 GZ,Gesicht Zeigen! e.V.,1,,,,
 UA,Ubuntu Africa,1,,,,

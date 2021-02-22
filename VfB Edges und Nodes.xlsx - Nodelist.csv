@@ -1,0 +1,31 @@
+id,name,type,function,age,representation,position
+TH,Thomas Hitzlsperger,0,V,38,"S, US, K ",VS
+SH,Stefan Heim,0,V,50,"F, VW, O",MV
+JR,Jochen Röttgermann,0,V,54,"M, V","MV, MG"
+OS,Oliver Schraft,0,G,53,"K, T",MG
+CV,Claus Vogt,0,AR,51,n/a,"VS, P"
+WP,Wilfried Porth,0,AR,62,n/a,SV
+RA,Rainer Adrion,0,AR,67,n/a,MA
+BG,Dr. Bernd Gaiser,0,AR,59,n/a,MA
+HJ,Hartmut Jenner,0,AR,55,n/a,SV
+HO,Hermann Ohlicher,0,AR,71,n/a,MA
+FR,Franz Reiner,0,AR,53,n/a,MA
+BS,Dr. Bertram Sugg,0,AR,55,n/a,MA
+VfB,VfB Stuttgart,1,n/a,n/a,n/a,n/a
+GZ,Gesicht Zeigen! e.V.,1,n/a,n/a,n/a,n/a
+UA,Ubuntu Africa,1,n/a,n/a,n/a,n/a
+DAFK,Deutsche Akademie für Fußball-Kultur,1,n/a,n/a,n/a,n/a
+BMH,Bundesstiftung Magnus Hirschfeld,1,n/a,n/a,n/a,n/a
+VR,VfB Reha-Welt GmbH,1,n/a,n/a,n/a,n/a
+SNP,Stadion NeckarPark GmbH & Co. KG,1,n/a,n/a,n/a,n/a
+VM,VfB Marketing GmbH,1,n/a,n/a,n/a,n/a
+VB,VfB Beteiligungs-GmbH,1,n/a,n/a,n/a,n/a
+WF,Württembergischer Fußballverband,1,n/a,n/a,n/a,n/a
+KC ,Kommission Clubmedien der DFL,1,n/a,n/a,n/a,n/a
+IGH,Intensia Group Holding GmbH,1,n/a,n/a,n/a,n/a
+FC,FC Fair Play! e.V.,1,n/a,n/a,n/a,n/a
+DA,Daimler AG,1,n/a,n/a,n/a,n/a
+KA,Kärcher SE & Co. KG,1,n/a,n/a,n/a,n/a
+AKF,Alfred-Kärcher-Förderstiftung,1,n/a,n/a,n/a,n/a
+DAM,Daimler Mobility AG,1,n/a,n/a,n/a,n/a
+RB,Robert Bosch GmbH,1,n/a,n/a,n/a,n/a

@@ -1,8 +1,8 @@
 id,name,type,function,age,representation,position
-TH,Thomas Hitzlsperger,0,V,38,"S, US, K ",VS
-SH,Stefan Heim,0,V,50,"F, VW, O",MV
-JR,Jochen Röttgermann,0,V,54,"M, V","MV, MG"
-OS,Oliver Schraft,0,G,53,"K, T",MG
+TH,Thomas Hitzlsperger,0,V,38,S,US,K,VS
+SH,Stefan Heim,0,V,50,F,VW,O,MV
+JR,Jochen Röttgermann,0,V,54,"M, V,MV, MG
+OS,Oliver Schraft,0,G,53,K, T,MG
 CV,Claus Vogt,0,AR,51,,"VS, P"
 WP,Wilfried Porth,0,AR,62,,SV
 RA,Rainer Adrion,0,AR,67,,MA

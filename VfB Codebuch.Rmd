@@ -48,4 +48,5 @@ relation
 2 = Mitglied
 3 = persönliches u. soziales Engagement
 4 = Nebentätigkeit, bezahlt
+5 = Bekannte Kollegen
 

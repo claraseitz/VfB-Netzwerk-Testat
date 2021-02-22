@@ -1,0 +1,57 @@
+---
+title: "Codebuch VfB Netzwerk"
+author: "Clara Seitz"
+date: "2/22/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Codebuch
+
+## Nodelist
+
+type 
+0 = person
+1 = organization
+
+function
+V = Vorstand
+AR = Aufsichtsrat
+G = Geschäftsleitung
+P = Präsident
+
+representation
+F = Finanzen
+K = Kommunikation
+O = Operations
+M = Marketing
+S = Sport
+US = Unternehmensstrategie
+T = Tochterunternehmen
+VW = Verwaltung
+V = Vertrieb
+
+
+position
+VS = Vorsitz
+SV = Stellvertreter
+MV = Vorstandsmitglied
+MA = Mitglied Aufsichtsrat
+MG = Mitglied der Geschäftsleitung
+
+n/a = not available
+
+(engagement)
+
+## Edgelist
+
+relation
+
+1 = erstrangige Beschäftigung, bezahlt 
+2 = Mitglied
+3 = persönliches u. soziales Engagement
+4 = Nebentätigkeit, bezahlt
+

@@ -48,5 +48,10 @@ relation
 2 = Mitglied
 3 = persönliches u. soziales Engagement
 4 = Nebentätigkeit, bezahlt
-5 = Bekannte Kollegen
+5 = persönliche Beziehung
+
+weight
+1 = wenig Bedeutung für VfB Amt
+2 = Kollegen
+3 = enge Kollegen im selben Gremium
 

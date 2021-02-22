@@ -52,6 +52,6 @@ relation
 
 weight
 1 = wenig Bedeutung für VfB Amt
-2 = Kollegen
-3 = enge Kollegen im selben Gremium
+2 = Kollegen/weitere Tätigkeit im VfB
+3 = enge Kollegen im selben Gremium, Haupttätigkeit VfB
 

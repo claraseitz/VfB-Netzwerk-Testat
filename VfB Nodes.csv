@@ -1,9 +1,9 @@
 id,name,type,function,age,representation,position
-TH,Thomas Hitzlsperger,0,V,38,K,VS
+TH,Thomas Hitzlsperger,0,V,38,US,VS
 SH,Stefan Heim,0,V,50,F,MV
 JR,Jochen Röttgermann,0,V,54,M,MV
-OS,Oliver Schraft,0,G,53,K,T,MG
-CV,Claus Vogt,0,AR,51,NA,VS,P
+OS,Oliver Schraft,0,G,53,T,MG
+CV,Claus Vogt,0,AR,51,NA,P
 WP,Wilfried Porth,0,AR,62,NA,SV
 RA,Rainer Adrion,0,AR,67,NA,MA
 BG,Dr. Bernd Gaiser,0,AR,59,NA,MA
